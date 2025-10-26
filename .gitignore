@@ -10,3 +10,4 @@ dist
 *.json
 *.sh
 *.spec
+.idea
