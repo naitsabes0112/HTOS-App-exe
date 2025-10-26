@@ -2,7 +2,11 @@ logs
 UserSaves
 STORAGE
 __pycache__
+data
+build
+dist
 .venv
 *.db
 *.json
 *.sh
+*.spec
