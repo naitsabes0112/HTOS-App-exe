@@ -5,6 +5,10 @@ __pycache__
 data
 build
 dist
+dist_app/
+dist_nocmd/
+build_app/
+build_nocmd/
 .venv
 *.db
 *.json
